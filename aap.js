@@ -1,5 +1,5 @@
 const App = function {
-    console.log("Olá Mundo")
+    console.log("Olá Hare")
 }
 
 App();
